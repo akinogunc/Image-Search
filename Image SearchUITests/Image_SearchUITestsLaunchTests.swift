@@ -2,7 +2,7 @@
 //  Image_SearchUITestsLaunchTests.swift
 //  Image SearchUITests
 //
-//  Created by Maruf Nebil Ogunc on 27.10.2022.
+//  Created by Akin Ogunc on 27.10.2022.
 //
 
 import XCTest

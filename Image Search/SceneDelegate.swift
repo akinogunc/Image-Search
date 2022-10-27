@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Image Search
 //
-//  Created by Maruf Nebil Ogunc on 27.10.2022.
+//  Created by Akin Ogunc on 27.10.2022.
 //
 
 import UIKit
